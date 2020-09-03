@@ -1,6 +1,6 @@
 ![OpenTech](https://i.ibb.co/4g2hgty/landing.png)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f6ad4d4e-3128-43db-a06e-6f63790cba6c/deploy-status)](https://app.netlify.com/sites/opentech/deploys) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/opentech-pe/opentech.pe/blob/master/LICENSE) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
@@ -44,11 +44,12 @@ Gracias a estas increibles personas ([emoji key](https://allcontributors.org/doc
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/paulotijero"><img src="https://avatars2.githubusercontent.com/u/28131369?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Paulo Tijero</b></sub></a><br /><a href="https://github.com/Juancxh/opentech/commits?author=paulotijero" title="Code">💻</a> <a href="#projectManagement-paulotijero" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://github.com/paulotijero"><img src="https://avatars2.githubusercontent.com/u/28131369?v=4" width="100px;" alt=""/><br /><sub><b>Paulo Tijero</b></sub></a><br /><a href="https://github.com/Juancxh/opentech.pe/commits?author=paulotijero" title="Code">💻</a> <a href="#projectManagement-paulotijero" title="Project Management">📆</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/JimmyLoloy98"><img src="https://avatars0.githubusercontent.com/u/49881423?v=4" width="100px;" alt=""/><br /><sub><b>Jimmy Erick Loloy Laurencio</b></sub></a><br /><a href="#userTesting-JimmyLoloy98" title="User Testing">📓</a></td>
   </tr>
 </table>
 
-<!-- markdownlint-restore -->
+<!-- markdownlint-enable -->
 <!-- prettier-ignore-end -->
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
